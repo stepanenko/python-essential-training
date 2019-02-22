@@ -1,5 +1,5 @@
-# Official Aurelia Tutorial
-### Contact Manager App
+# Contact Manager App
+### Official Aurelia Tutorial
 
 https://aurelia.io/docs/tutorials/creating-a-contact-manager/
 
