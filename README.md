@@ -5,4 +5,4 @@ https://aurelia.io/docs/tutorials/creating-a-contact-manager/
 
 Current Part: 
 
-https://aurelia.io/docs/tutorials/creating-a-contact-manager#adding-pubsub-messaging
+https://aurelia.io/docs/tutorials/creating-a-contact-manager#adding-a-loading-indicator
