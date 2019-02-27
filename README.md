@@ -1,7 +1,7 @@
 # Contact Manager App
 ### [Official Aurelia Tutorial](https://aurelia.io/docs/tutorials/creating-a-contact-manager/)
 
-App Completed. Next Steps:
+App Completed. [Next Steps:](https://aurelia.io/docs/tutorials/creating-a-contact-manager#next-steps)
 
 - Create a real backend for the app and use the http-client or fetch-client to retrieve the data.
 - Extend that application so that new contacts can be added.
