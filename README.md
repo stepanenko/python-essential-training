@@ -2,9 +2,9 @@
 
 ### [Official Aurelia Tutorial](https://aurelia.io/docs/tutorials/creating-a-contact-manager/)
 
-App Completed. [Next Steps:](https://aurelia.io/docs/tutorials/creating-a-contact-manager#next-steps)
+App Completed. Updated all packages via `npx npm-check-updates -u` on 22.09.2020
 
-Updated all packages via `npx npm-check-updates -u` on 22.09.2020
+ [Next Steps:](https://aurelia.io/docs/tutorials/creating-a-contact-manager#next-steps)
 
 - Create a real backend for the app and use the http-client or fetch-client to retrieve the data.
 - Extend that application so that new contacts can be added.
