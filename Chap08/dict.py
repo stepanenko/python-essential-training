@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# Copyright 2009-2017 BHG http://bw.org/
+
 
 def main():
     animals = { 'kitten': 'meow', 'puppy': 'ruff!', 'lion': 'grrr',

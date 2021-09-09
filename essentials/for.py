@@ -1,4 +1,5 @@
 
+# list:
 words = ['one', 'two', 'three', 'four', 'five']
 
 for i in words:
@@ -6,7 +7,7 @@ for i in words:
 
 # logs:
 # one
-# two  
+# two
 # three
-# four 
-# five 
+# four
+# five
