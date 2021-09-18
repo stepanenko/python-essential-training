@@ -1,5 +1,4 @@
 
-
 class Duck:
     sound = 'Quack quack.'
     movement = 'Walks like a duck.'
@@ -10,9 +9,12 @@ class Duck:
     def move(self):
         print(self.movement)
 
+
 def main():
     donald = Duck()
     donald.quack()
     donald.move()
 
-if __name__ == '__main__': main()
+
+if __name__ == '__main__':
+    main()
