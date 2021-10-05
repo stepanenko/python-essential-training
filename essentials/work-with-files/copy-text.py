@@ -1,5 +1,5 @@
 
-
+# Making a copy of a text file:
 def main():
     infile = open('lines.txt', 'rt')
     outfile = open('lines-copy.txt', 'wt')
@@ -9,4 +9,6 @@ def main():
     outfile.close()
     print('\ndone.')
 
-if __name__ == '__main__': main()
+
+if __name__ == '__main__':
+    main()
