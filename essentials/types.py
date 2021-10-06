@@ -3,18 +3,43 @@
 # Tuple, List, Set, and Dictionary, all with different qualities and usage.
 
 # Tuple is a collection which is ordered and unchangeable:
-t = (5, 7, '8', 'great')
-print('t is {}'.format(t))
-print(type(t))
-# t is 7
-# <class 'tuple'>
+myTuple = (5, 7, '8', 'great')
+print('myTuple is {}'.format(myTuple))
+print(type(myTuple))  # <class 'tuple'>
+
+
+# List items are indexed, ordered, changeable, and allow duplicate values:
+myList = ["apple", "banana", "cherry"]
+print('myList is {}'.format(myList))
+print(type(myList))  # <class 'list'>
+
+
+# Set is a collection which is unordered, unindexed, unchangeable (but you can add items):
+# Sets cannot have two items with the same value:
+mySet = {"apple", "banana", "cherry", "cherry"}
+print('mySet is {}'.format(mySet))
+# mySet is {'banana', 'apple', 'cherry'}
+print(type(mySet))  # <class 'set'>
+
 
 # Dictionary is a collection which is ordered, changeable and does not allow duplicates:
-d = {'a': 5, 'a': 7, 'c': 8}
-print('d is {}'.format(d))
-print(type(d))
-# d is {'a': 7, 'c': 8}
-# <class 'dict'>
+myDict = {'a': 5, 'a': 7, 'c': 8}
+print('myDict is {}'.format(myDict))
+print(type(myDict))  # <class 'dict'>
+
+
+# Python has the following data types built-in by default, in these categories:
+
+# Text Type:	    str
+# Numeric Types:	int, float, complex
+# Sequence Types:	list, tuple, range
+# Mapping Type:	    dict
+# Set Types:	    set, frozenset
+# Boolean Type:	    bool
+# Binary Types:	    bytes, bytearray, memoryview
+
+# Setting the Specific Data Type:
+# https://www.w3schools.com/python/python_datatypes.asp
 
 x = '47'
 y = int(x)
