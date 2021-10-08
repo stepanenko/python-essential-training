@@ -1,6 +1,6 @@
 
-
 import sqlite3
+
 
 def main():
     print('connect')
@@ -39,4 +39,6 @@ def main():
     print('close')
     db.close()
 
-if __name__ == '__main__': main()
+
+if __name__ == '__main__':
+    main()

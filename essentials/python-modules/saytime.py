@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# saytime.py by Bill Weinman [http://bw.org/]
-# Copyright 2010-2019 The BearHeart Gorup, LLC
-# updated 2019-12-02 for python 3.8
 
 import sys
 import time
@@ -16,7 +12,7 @@ class numwords():
     '''
     _words = {
         'ones': (
-            'oh', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'
+            'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'
         ), 'tens': (
             '', 'ten', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'
         ), 'teens': (
