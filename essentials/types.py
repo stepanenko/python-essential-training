@@ -2,8 +2,8 @@
 # Python has 4 built-in data types to store collections of data:
 # Tuple, List, Set, and Dictionary, all with different qualities and usage.
 
-# Tuple is a collection which is ordered and unchangeable:
-myTuple = (5, 7, '8', 'great')
+# Tuple is a collection which is ordered and unchangeable, allow duplicates:
+myTuple = (5, 7, 7, '8', 'great')
 print('myTuple is {}'.format(myTuple))
 print(type(myTuple))  # <class 'tuple'>
 
