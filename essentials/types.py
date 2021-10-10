@@ -3,6 +3,7 @@
 # Tuple, List, Set, and Dictionary, all with different qualities and usage.
 
 # Tuple is a collection which is ordered, unchangeable and allow duplicates:
+# Unchangeable - cannot change, add or remove items after the tuple has been created.
 myTuple = (5, 7, 7, '8', 'great')
 print('myTuple is {}'.format(myTuple))
 print(type(myTuple))  # <class 'tuple'>
